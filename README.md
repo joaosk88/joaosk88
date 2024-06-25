@@ -1,29 +1,21 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello Human </h1></summary>
+<h1 align="center">Olá humano!</h1>
+
+###
+
+<div align="center">
+  <img height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZjM2oxODYxZWVpd2hrZWkxbjRlMmV6Ym83bnVibDh2ZnFwOWp3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pt0EKLDJmVvlS/giphy.gif"  />
 </div>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm João! A passionate mobile development from Brazil.
+###
 
-  - 🌱 I’m currently studying mobile development by the University Centro Universitário Leonardo da Vinci <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+<h3 align="left">👩‍💻  About Me</h3>
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
-</p>
+###
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+<p align="left">Hello 👋, I'm João! A passionate mobile development student.<br><br>🌱 I'm currently studying Mobile Development at Centro Universitário Leonardo da Vinci.<br><br>🔭 I'm looking for my first job opportunity. .<br><br>👨‍💻 More about me</p>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+###
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-
-<!-- Links -->
-<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/joao-vitor-019a29190/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -38,26 +30,19 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-<!-- GithubStats -->
 
+###
 
-<!-- Portfolio -->
-## Portfolio:
-- [IA](https://github.com/joaosk88/Bastian)
-- [Portifolio](https://github.com/joaosk88/portfolio2.0)
-- [Project X-men](https://github.com/joaosk88/x-men)
-- [App mobile Sorteio](https://github.com/joaosk88/SorteiAPP)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaosk88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+</div>
 
+###
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+<h3 align="left">🔥 Skills</h3>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    
+###
+
 <p align="left">Programming Languages</p>
 
 ###
