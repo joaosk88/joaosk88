@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello 👋, I'm João! A passionate mobile development student.<br><br>🌱 I'm currently studying Mobile Development at Centro Universitário Leonardo da Vinci.<br><br>🔭 I'm looking for my first job opportunity. .<br><br>👨‍💻 More about me</p>
+<p align="left">Hello 👋, I'm João!  .<br><br>👨‍💻 More about me</p>
 
 ###
 
